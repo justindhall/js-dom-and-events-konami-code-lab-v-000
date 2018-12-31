@@ -10,7 +10,7 @@ function init() {
     i++;
     
     if(i === code.length) {
-      alert("")
+      alert("do do")
     }
   }
 }
