@@ -10,9 +10,8 @@ function init() {
       i++;
 
       if (i === code.length) {
-        alert('Hurray!');
+        alert('Huzzah, nerd');
 
-        i = 0;
       }
     } else {
       i = 0;
