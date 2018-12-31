@@ -6,16 +6,16 @@ function init() {
   document.body.addEventListener('keydown', function(e) {
     const key = parseInt(e.which || e.detail);
 
-    if (code[index] === key) {
-      index++;
+    if (code[i] === key) {
+      i++;
 
-      if (index === code.length) {
+      if (i === code.length) {
         alert('Hurray!');
 
-        index = 0;
+        i = 0;
       }
     } else {
-      index = 0;
+      i = 0;
     }
   });
 }
