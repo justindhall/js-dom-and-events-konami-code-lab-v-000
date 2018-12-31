@@ -10,7 +10,7 @@ function init() {
     i++;
     
     if(i === code.length) {
-      alert("do do")
+      alert("Up Up Down Down Left Right Left Right B A")
     }
   }
 }
