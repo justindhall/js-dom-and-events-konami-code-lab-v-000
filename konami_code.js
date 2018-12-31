@@ -15,5 +15,6 @@ function init() {
         alert("huzzah, nerd")
       }
     }
+    else {
   )
 }
