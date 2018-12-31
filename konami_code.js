@@ -4,7 +4,7 @@ let i = 0;
 
 function init() {
   // Write your JavaScript code inside the init() function
-  document.
+  document.body.addEventListener
   
   const key = parseInt(e.detail || ewhich);
   
